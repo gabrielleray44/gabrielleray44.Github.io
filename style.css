@@ -1,0 +1,26 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+  }
+  h1 
+    {
+      color: blue;
+  }
+
+  thead {
+    font-weight: bold;
+  }
+
+  thead td{
+    text-align: center;
+
+  }
+
+  table{
+    border-collapse: collapse;
+    width: 100%;
+    
+
+  }td{
+    border: 1px solid blue;
+    padding: 10px;
+  }
