@@ -7,7 +7,7 @@ body {
   }
 
   thead {
-    font-weight: bold;
+    font-weight: medium;
   }
 
   thead td{
@@ -17,9 +17,8 @@ body {
 
   table{
     border-collapse: collapse;
-    width: 100%;
+    width: 70%;
     
-
   }td{
     border: 1px solid blue;
     padding: 10px;
